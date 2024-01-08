@@ -1,0 +1,21 @@
+.elementor-kit-13{--e-global-color-primary:#FF0000;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-typography-primary-font-family:"Martian";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Martian";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Martian";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Martian";--e-global-typography-accent-font-weight:500;font-family:"Martian", Sans-serif;}.elementor-kit-13 a{font-family:"Martian", Sans-serif;}.elementor-kit-13 h1{font-family:"Martian", Sans-serif;}.elementor-kit-13 h2{font-family:"Martian", Sans-serif;}.elementor-kit-13 h3{font-family:"Martian", Sans-serif;font-weight:600;}.elementor-kit-13 h4{font-family:"Martian", Sans-serif;}.elementor-kit-13 h5{font-family:"Martian", Sans-serif;}.elementor-kit-13 h6{font-family:"Martian", Sans-serif;}.elementor-kit-13 button,.elementor-kit-13 input[type="button"],.elementor-kit-13 input[type="submit"],.elementor-kit-13 .elementor-button{color:#FF0000;}.elementor-kit-13 button:hover,.elementor-kit-13 button:focus,.elementor-kit-13 input[type="button"]:hover,.elementor-kit-13 input[type="button"]:focus,.elementor-kit-13 input[type="submit"]:hover,.elementor-kit-13 input[type="submit"]:focus,.elementor-kit-13 .elementor-button:hover,.elementor-kit-13 .elementor-button:focus{color:#FF0000;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.elementor-widget:not(:last-child){margin-bottom:20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Martian';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://casacardenal.com/wp-content/uploads/2021/07/MartianBThai-Regular.eot');
+	src: url('https://casacardenal.com/wp-content/uploads/2021/07/MartianBThai-Regular.eot?#iefix') format('embedded-opentype'),
+		url('https://casacardenal.com/wp-content/uploads/2021/07/MartianBThai-Regular.woff') format('woff'),
+		url('https://casacardenal.com/wp-content/uploads/2021/07/MartianBThai-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Martian';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://casacardenal.com/wp-content/uploads/2021/07/MartianBThai-Bold.eot');
+	src: url('https://casacardenal.com/wp-content/uploads/2021/07/MartianBThai-Bold.eot?#iefix') format('embedded-opentype'),
+		url('https://casacardenal.com/wp-content/uploads/2021/07/MartianBThai-Bold.woff') format('woff'),
+		url('https://casacardenal.com/wp-content/uploads/2021/07/MartianBThai-Bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
